@@ -32,7 +32,9 @@
 		<!-- load our angular files -->
 		<script src="angular/meow-app.js"></script>
 		<script src="angular/route-config.js"></script>
+		<script src="angular/directives/bootstrap-breakpoint.js"></script>
 		<script src="angular/controllers/home-controller.js"></script>
+		<script src="angular/controllers/nav-controller.js"></script>
 		<script src="angular/controllers/donate-controller.js"></script>
 		<script src="angular/controllers/signup-controller.js"></script>
 		<script src="angular/controllers/treats-controller.js"></script>
